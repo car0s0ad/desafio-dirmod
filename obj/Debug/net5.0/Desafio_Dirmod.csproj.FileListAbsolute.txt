@@ -1,0 +1,16 @@
+/home/acelradora05/Descargas/Desafio_Dirmod/obj/Debug/net5.0/Desafio_Dirmod.csprojAssemblyReference.cache
+/home/acelradora05/Descargas/Desafio_Dirmod/obj/Debug/net5.0/Desafio_Dirmod.GeneratedMSBuildEditorConfig.editorconfig
+/home/acelradora05/Descargas/Desafio_Dirmod/obj/Debug/net5.0/Desafio_Dirmod.AssemblyInfoInputs.cache
+/home/acelradora05/Descargas/Desafio_Dirmod/obj/Debug/net5.0/Desafio_Dirmod.AssemblyInfo.cs
+/home/acelradora05/Descargas/Desafio_Dirmod/obj/Debug/net5.0/Desafio_Dirmod.csproj.CoreCompileInputs.cache
+/home/acelradora05/Descargas/Desafio_Dirmod/bin/Debug/net5.0/Desafio_Dirmod
+/home/acelradora05/Descargas/Desafio_Dirmod/bin/Debug/net5.0/Desafio_Dirmod.deps.json
+/home/acelradora05/Descargas/Desafio_Dirmod/bin/Debug/net5.0/Desafio_Dirmod.runtimeconfig.json
+/home/acelradora05/Descargas/Desafio_Dirmod/bin/Debug/net5.0/Desafio_Dirmod.runtimeconfig.dev.json
+/home/acelradora05/Descargas/Desafio_Dirmod/bin/Debug/net5.0/Desafio_Dirmod.dll
+/home/acelradora05/Descargas/Desafio_Dirmod/bin/Debug/net5.0/ref/Desafio_Dirmod.dll
+/home/acelradora05/Descargas/Desafio_Dirmod/bin/Debug/net5.0/Desafio_Dirmod.pdb
+/home/acelradora05/Descargas/Desafio_Dirmod/obj/Debug/net5.0/Desafio_Dirmod.dll
+/home/acelradora05/Descargas/Desafio_Dirmod/obj/Debug/net5.0/ref/Desafio_Dirmod.dll
+/home/acelradora05/Descargas/Desafio_Dirmod/obj/Debug/net5.0/Desafio_Dirmod.pdb
+/home/acelradora05/Descargas/Desafio_Dirmod/obj/Debug/net5.0/Desafio_Dirmod.genruntimeconfig.cache

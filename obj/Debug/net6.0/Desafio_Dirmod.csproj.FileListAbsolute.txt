@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\Desafio_Dirmod\bin\Debug\net6.0\Desafio_Dirmod.exe
+C:\Users\ASUS\Desktop\Desafio_Dirmod\bin\Debug\net6.0\Desafio_Dirmod.deps.json
+C:\Users\ASUS\Desktop\Desafio_Dirmod\bin\Debug\net6.0\Desafio_Dirmod.runtimeconfig.json
+C:\Users\ASUS\Desktop\Desafio_Dirmod\bin\Debug\net6.0\Desafio_Dirmod.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Desafio_Dirmod\bin\Debug\net6.0\Desafio_Dirmod.dll
+C:\Users\ASUS\Desktop\Desafio_Dirmod\bin\Debug\net6.0\ref\Desafio_Dirmod.dll
+C:\Users\ASUS\Desktop\Desafio_Dirmod\bin\Debug\net6.0\Desafio_Dirmod.pdb
+C:\Users\ASUS\Desktop\Desafio_Dirmod\obj\Debug\net6.0\Desafio_Dirmod.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Desafio_Dirmod\obj\Debug\net6.0\Desafio_Dirmod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Desafio_Dirmod\obj\Debug\net6.0\Desafio_Dirmod.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Desafio_Dirmod\obj\Debug\net6.0\Desafio_Dirmod.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Desafio_Dirmod\obj\Debug\net6.0\Desafio_Dirmod.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Desafio_Dirmod\obj\Debug\net6.0\Desafio_Dirmod.dll
+C:\Users\ASUS\Desktop\Desafio_Dirmod\obj\Debug\net6.0\ref\Desafio_Dirmod.dll
+C:\Users\ASUS\Desktop\Desafio_Dirmod\obj\Debug\net6.0\Desafio_Dirmod.pdb
+C:\Users\ASUS\Desktop\Desafio_Dirmod\obj\Debug\net6.0\Desafio_Dirmod.genruntimeconfig.cache
